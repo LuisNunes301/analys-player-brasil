@@ -1,4 +1,4 @@
-# Analys-player-brasil
+# Analise dos atacantes brasileiros para copa de 2022.
 
 <p align="center">
   <img src="brasil.png" >
@@ -15,7 +15,9 @@ Usarei o site oficial do sofaescore.
 
 
 #### 1-Escolhidos:
-	Seus clubes serão os dados que irao valer, para fazer uma analisar superficial, porem seus números na seleção é o desempate/prevalecerá no dado final.
+	Seus clubes serão os dados que irao valer, 
+	para fazer uma analisar superficial, 
+	porem seus números na seleção é o desempate/prevalecerá no dado final.
     1.Vini Junior
     2.Raphinha
     3.Anhony
@@ -25,4 +27,7 @@ Usarei o site oficial do sofaescore.
     7.Gabriel Jesus
 
 #### 2-Por fim, para concluir irei analisar o brasil com outras seleçoes.
-	Para fins de analise, outras seleçoes irão estrar no projeto para que haja uma maior comprovação de dados, e para concluir se o ataque do brasil é ,ou não competivo a nivel de copa do mundo.
+	Para fins de analise, outras seleçoes irão estrar
+	no projeto para que haja uma maior comprovação de dados,
+	e para concluir se o ataque do brasil é,
+	ou não competivo a nivel de copa do mundo.
