@@ -1,0 +1,83 @@
+{
+    "totalRatingBySofascore": {
+        "benzema":7.72,
+        "nkuku":7.59,
+        "dembele":7.52,
+        "giroud":7.07,
+        "griezmann":6.96,
+        "coman":7.04,
+        "mbappe":7.76
+    },
+    "appearence": {
+        "benzema":32,
+        "nkuku":34,
+        "dembele":21,
+        "giroud":29,
+        "griezmann":29,
+        "coman":21,
+        "mbappe":35
+    },
+    "goals": {
+        "benzema":27,
+        "nkuku":20,
+        "dembele":1,
+        "giroud":11,
+        "griezmann":3,
+        "coman":6,
+        "mbappe":28
+    },
+    "assist": {
+        "benzema":12,
+        "nkuku":13,
+        "dembele":13,
+        "giroud":3,
+        "griezmann":4,
+        "coman":2,
+        "mbappe":17
+    },
+    "start": {
+        "benzema":31,
+        "nkuku":31,
+        "dembele":15,
+        "giroud":22,
+        "griezmann":24,
+        "coman":16,
+        "mbappe":34
+    },
+    "bigChancesCreated": {
+        "benzema":15,
+        "nkuku":16,
+        "dembele":13,
+        "giroud":3,
+        "griezmann":6,
+        "coman":6,
+        "mbappe":23
+    },
+    "succDribbles": {
+        "benzema":36,
+        "nkuku":66,
+        "dembele":59,
+        "giroud":4,
+        "griezmann":22,
+        "coman":48,
+        "mbappe":111
+    },
+    "totalDuelWon": {
+        "benzema":74,
+        "nkuku":176,
+        "dembele":104,
+        "giroud":133,
+        "griezmann":131,
+        "coman":93,
+        "mbappe":179
+    },
+    "bestInMatch": {
+        "benzema":10,
+        "nkuku":11,
+        "dembele":6,
+        "giroud":3,
+        "griezmann":2,
+        "coman":0,
+        "mbappe":17
+    }
+}
