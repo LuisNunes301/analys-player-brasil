@@ -1,0 +1,83 @@
+{
+    "totalRatingBySofascore": {
+        "pedro": 6.86,
+        "vini": 7.35,
+        "gabigol": 7.20,
+        "neymar": 7.46,
+        "anthony": 7.43,
+        "raphinha": 6.96,
+        "jesus": 7.18
+    },
+    "appearence": {
+        "pedro": 24,
+        "vini": 35,
+        "gabigol": 18,
+        "neymar": 22,
+        "anthony": 23,
+        "raphinha": 35,
+        "jesus": 28
+    },
+    "goals": {
+        "pedro": 7,
+        "vini": 17,
+        "gabigol": 12,
+        "neymar": 13,
+        "anthony": 8,
+        "raphinha": 11,
+        "jesus": 8
+    },
+    "assist": {
+        "pedro": 5,
+        "vini": 10,
+        "gabigol": 5,
+        "neymar": 6,
+        "anthony": 4,
+        "raphinha": 1,
+        "jesus": 8
+    },
+    "start": {
+        "pedro": 15,
+        "vini": 30,
+        "gabigol": 18,
+        "neymar": 22,
+        "anthony": 21,
+        "raphinha": 34,
+        "jesus": 21
+    },
+    "bigChancesCreated": {
+        "pedro": 4,
+        "vini": 13,
+        "gabigol": 7,
+        "neymar": 15,
+        "anthony": 7,
+        "raphinha": 10,
+        "jesus": 8
+    },
+    "succDribbles": {
+        "pedro": 15,
+        "vini": 95,
+        "gabigol": 8,
+        "neymar": 58,
+        "anthony": 42,
+        "raphinha": 62,
+        "jesus": 46
+    },
+    "totalDuelWon": {
+        "pedro": 69,
+        "vini":  218,
+        "gabigol": 28,
+        "neymar": 162,
+        "anthony": 111,
+        "raphinha": 182,
+        "jesus": 111
+    },
+    "bestInMatch": {
+        "pedro": 0,
+        "vini": 8,
+        "gabigol": 3,
+        "neymar": 4,
+        "anthony": 2,
+        "raphinha": 2,
+        "jesus": 3
+    }
+}
