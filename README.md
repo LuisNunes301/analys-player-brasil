@@ -9,7 +9,7 @@
 #### Fontes de dados:
 Usarei o site oficial do sofaescore.
 1. https://bit.ly/2K2STGg
-2. https://bit.ly/3qRDr3s
+
 ##### A parti disto, procurei uma Unofficial Sofascore REST API, que uso para criar arquivos json, puxando da api, contendo dados do jogador.
 
 
