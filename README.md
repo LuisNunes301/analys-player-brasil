@@ -4,7 +4,7 @@
   <img src="brasil.png" >
 </p>
 
-##### Qual é o impacto dos jogadores do brasil seleção, se baseando em dados estatísticos.
+##### Qual é o impacto dos jogadores do brasil seleção, se baseando em dados estatísticos, para delimitar o maior no impacto na copa.
 
 #### Fontes de dados:
 Usarei o site oficial do sofaescore.
@@ -14,7 +14,7 @@ Usarei o site oficial do sofaescore.
 
 
 
-#### 1-Escolhidos:
+#### Escolhidos:
 	Seus clubes serão os dados que irao valer, 
 	para fazer uma analisar superficial, 
 	porem seus números na seleção é o desempate/prevalecerá no dado final.
@@ -25,9 +25,3 @@ Usarei o site oficial do sofaescore.
     5.Pedro
     6.Neymar
     7.Gabriel Jesus
-
-#### 2-Por fim, para concluir irei analisar o brasil com outras seleçoes.
-	Para fins de analise, outras seleçoes irão estrar
-	no projeto para que haja uma maior comprovação de dados,
-	e para concluir se o ataque do brasil é,
-	ou não competivo a nivel de copa do mundo.
